@@ -72,5 +72,5 @@ hasCJKLanguage = false
 
 # Add additional social link entries underneath
 [social]
-	twitter-square = "https://www.twitter.com/nodejh"
-	github-square = "https://www.github.com/nodejh"
+	twitter-square = "https://www.twitter.com/"
+	github-square = "https://www.github.com/michaeljblum"
