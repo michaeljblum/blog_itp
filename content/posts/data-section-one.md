@@ -8,7 +8,7 @@ draft = false
 
 The idea, and all its implications, of data as an “art material” is one that, though I’ve confronted it in sundry contexts, pieces and performances over the years, I’d never actually explicitly considered.
 
-In part because there is simply so, so much of “data”—all different kinds and always ever more—that it’s easy to fail to consciously come to terms with it, both in life and in art, and sometimes especially easy to miss in the latter when the data is less monumental, explicit, or striking (war and atrocity memorials or the obvious cataloguing of smaller or more personal datasets). 
+In part because there is simply so, so much of “data”—all different kinds and always ever more—it’s easy to fail to consciously come to terms with it, both in life and in art. And it is sometimes especially easy to miss in art when the data is less monumental, explicit, or striking (namely, in cases other than war and atrocity memorials or the obvious cataloguing of smaller or more personal datasets). 
 
 These readings got me thinking especially on the relation between data—its largely unconscious, excessive accumulation; its collection by a variety of organizations and corporations, and the role it plays in their decision-making—and the self—its constitution, its representation, and its uniqueness or genericness. With regards to this tangent, Dan Weiskopf’s piece was particularly enlightening. 
 
