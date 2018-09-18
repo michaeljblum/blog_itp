@@ -6,7 +6,7 @@ categories = [""]
 draft = false
 +++
 
-The idea of data as an “art material” is one that, though I’ve confronted it in sundry contexts, pieces, and performances over the years, I’d never actually explicitly considered—or at least in any sustained way.
+The idea of data as an “art material” is one that, though I’ve encountered it in sundry contexts, pieces, and performances over the years, I’d never actually explicitly considered—or at least in any sustained way.
 
 In part because there is simply so, so much of “data”—all different kinds and always ever more—it’s easy to fail to consciously come to terms with it, both in life and in art. And it is sometimes especially easy to miss in art when the data is less monumental, explicit, or striking (namely, in cases other than war and atrocity memorials or the obvious cataloguing of smaller or more personal datasets). 
 
