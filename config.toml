@@ -19,7 +19,7 @@ summarylength = 30
 	enableRSS = true
 	enableToc = true
 
-	enableDisqus = true
+	enableDisqus = false
 	disqusShortname = "michaeljblum"
 
 
