@@ -6,7 +6,7 @@ categories = [""]
 draft = false
 +++
 
-For this assignment, we were tasked with creating three visualizations of the same dataset, the population of foreign immigrants, divided on the basis of their country of origin, living in the U.S. around the year ~2014 (the data was published as a part of the 1-year American Community Service in 2015). 
+For this assignment, we were tasked with creating three visualizations of the same dataset: the population of foreign immigrants, divided on the basis of their country of origin, living in the U.S. around the year ~2014 (the data was published as a part of the 1-year American Community Service in 2015). 
 
 I created the following single-page web app to host my three visualizations: https://michaeljblum.github.io/Week_1_Assignment/.
 

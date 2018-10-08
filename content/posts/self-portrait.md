@@ -9,7 +9,7 @@ draft = false
 ![pic](/images/uploads/selfGif.gif)
 
 
-Before this assignment, I'd never really deliberately sought out datasets that pertain personally and exclusively to me. So searching, mining, extracting, analyzing, organizing, filtering, cleaning, and, of course, visualizing this data was very much a new exercise for me.
+Before this assignment, I'd never really deliberately sought out datasets that pertain personally and exclusively to me. So collecting, analyzing, organizing, filtering, preparing, and, of course, visualizing this data was very much a new exercise for me.
 
 The data I was most interested in for the purposes of this project were the relatively large stores of personal data available on the [Google Takeout](https://en.wikipedia.org/wiki/Google_Takeout) service. The two datasets in my profile that were both most plentiful and most amenable to visualization were my email records and my map records (basically, all the places I've saved or starred on Google Maps over the years). I was intiially interested in creating some kind of comparative visualization of my old email's activity (~2006-2010, and only sporadically used since) and my newer, more professional email's activity (~2010-present). As this data, cumulatively, was pretty gigantic (I'd like to work with larger datasets a little later on in the semester) I decided to work with my Google Maps data. 
 
