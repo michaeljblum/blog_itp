@@ -26,6 +26,7 @@ The hovering, mobile orbs in the scene were animated using a timeline and a cust
 In terms of visuals, I tweaked the exponential height fog in a number of ways, and generally messed with the lighting, in order to give the scene an eerie, sort of washed out vibe.
 
 {{< youtube 7f7f-4vQ-aY >}}
+<br>
 
 All the sounds in this second piece were composed by myself using the modular, open-source synthesized VCV Rack. I spent many hours experimenting with this highly flexible and addicting software, creating all kinds of sounds (from 8-bit video game-style music to horror ambiance, dreamy poppy sounds, ~1970s synthy music, as well as a lot of pure noise garbage) and downloading a handful of third-party plugins, extending the software's core functionality.
 
