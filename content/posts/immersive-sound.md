@@ -6,3 +6,4 @@ categories = [""]
 draft = false
 +++
 
+![pic](/images/uploads/immersivepink.png)
