@@ -8,7 +8,7 @@ draft = false
 
 ![pic](/images/uploads/immersivepink.png)
 
- This class—"Immersive Listening: Designing Sound for VR"—primarily emphasizes working with sound—composing, generating, refining, augmenting, and spatializing sound, as well as positioning it in 3D space.
+ This class—Immersive Listening: Designing Sound for VR—primarily emphasizes working with sound—composing, generating, refining, augmenting, and spatializing sound, as well as positioning it in 3D space.
 
 That being the case, the two assignments I completed over the course of the past two weeks revolved more around generating and processing sound than they did around creating compelling environments and interesting interactions in Unreal Engine 4, the game engine in which we're tasked with designing our experiences.
 
