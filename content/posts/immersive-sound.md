@@ -27,7 +27,7 @@ In terms of visuals, I tweaked the exponential height fog in a number of ways, a
 
 {{< youtube 7f7f-4vQ-aY >}}
 
-All the sounds in this second piece were composed by myself using the modular, open-source synthesized VCV Rack. I spent many hours experimenting with this highly flexible and addicting software, creating all kinds of sounds (from 8-bit video game-style music to horror ambiance, dreamy poppy sounds, ~1970s synthy music, as well as a lot of pure noise garbage) and downloading a handful of third-party plugins, expanding the software's core functionality.
+All the sounds in this second piece were composed by myself using the modular, open-source synthesized VCV Rack. I spent many hours experimenting with this highly flexible and addicting software, creating all kinds of sounds (from 8-bit video game-style music to horror ambiance, dreamy poppy sounds, ~1970s synthy music, as well as a lot of pure noise garbage) and downloading a handful of third-party plugins, extending the software's core functionality.
 
 My initial idea for this piece was to create a sort of symmetry between the sine waves in my sound recordings and the sine waves I sometimes use in my materials in UE4 (sine waves can be used to make materials pulsate, which can be soothing, aggressive, or anywhere in between). After playing with this effect some, I ultimately decided to soften the effect because it was *just* a little too aggressive, particularly on the sound side of things.
 
