@@ -6,7 +6,7 @@ categories = [""]
 draft = false
 +++
 
-![pic](/images/uploads/immersivepink.png)
+![heropic](/images/uploads/immersivepink.png)
 
  This class—<i>Immersive Listening: Designing Sound for VR</i>—primarily emphasizes working with sound—composing, generating, refining, augmenting, and spatializing sound, as well as positioning it in 3D space.
 
@@ -34,7 +34,8 @@ My initial idea for this piece was to create a sort of symmetry between the sine
 
 So I went with a more melodic sounding piece for the primary "music" of the scene, and only made a couple of the materials pulsate and glow using sine waves and emmisive color.
 
-As for the sounds—a somewhat moody sound piece plays at the player's start location. There are four rotating platforms that the player is expected to jump up to (I tweaked the jumping mechanics and gravity in order to mimic the locomotion of a platformer-style game). On each of these four platforms, a progressively more dramatic variation of the same musical piece plays. On the topmost platform, a final piece plays, which is more gamey and fun in spirit than the previous several, indicating a sort of "win" state.
+As for the sounds—a somewhat moody sound piece plays at the player's start location. There are four rotating platforms that the player is expected to jump up to (I tweaked the jumping mechanics and gravity in order to mimic the locomotion of a platformer-style game). On each of these four platforms, a progressively more dramatic variation of the same musical piece plays. On the topmost platform, a final piece plays, which is more gamey and fun in spirit than the previous several, indicating a sort of "win" state. (You can find a screenshot of my workspace in VCV Rack during the composition of these sounds below.)
 
 The piece also has a sort of "8-bit" graphical style, the product of a post-processing shader material I created and set to unbounded, affecting the entirety of the environment.
 
+![vcvpic](/images/uploads/vcv1.png)
