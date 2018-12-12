@@ -6,7 +6,7 @@ categories = [""]
 draft = false
 +++
 
-Classmate Michael Blum and I have developed a project proposal for a public intervention project that utilizes data art/visualization called ‘Invisible Crowds’.
+Classmate Caleb Ferguson and I have developed a project proposal for a public intervention project that utilizes data art/visualization called ‘Invisible Crowds’.
 
 Invisible Crowds aims to raise awareness of the sheer volume and diversity of  invisible waves that are constantly bouncing around public spaces.
 
