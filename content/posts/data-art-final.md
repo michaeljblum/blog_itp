@@ -5,3 +5,8 @@ tags = [""]
 categories = [""]
 draft = false
 +++
+
+{{< youtube fCOz7escA_Q >}}
+<br>
+
+https://www.youtube.com/watch?v=fCOz7escA_Q
