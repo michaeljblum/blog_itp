@@ -10,7 +10,7 @@ Classmate Caleb Ferguson and I have developed a project proposal for a public in
 
 Invisible Crowds aims to raise awareness of the sheer volume and diversity of  invisible waves that are constantly bouncing around public spaces.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRydR0gwpODI272EstW6x6ipM2cglA7SX9B7AqSQnq5MFX1FQ1vS1SIFWLJ75i0ZW1YSP2DRKEdMmtU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRydR0gwpODI272EstW6x6ipM2cglA7SX9B7AqSQnq5MFX1FQ1vS1SIFWLJ75i0ZW1YSP2DRKEdMmtU/embed?start=false&loop=false&delayms=5000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 For this proposal we developed the above presentation and a more detailed writing below.
 
