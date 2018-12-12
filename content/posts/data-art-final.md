@@ -19,3 +19,14 @@ So I built a navigable, responsive data visualization in Unreal Engine 4, featur
 
 I wanted the user to develop a sense for the steep incline of the climate warming data by being tasked with exerting the energy to physically, manually scale it, thereby developing a more intimate, bodily understanding of the severity and rapidness of the change over time. 
 
+Executing this idea involved a number of steps. 
+
+1. Scale the climate change JSON data in D3.
+2. Create a data struct in Unreal Engine 4 with variables that correspond to the keys in the JSON data.
+3. Export the scaled JSON data from my D3/Jacvascript script, and import it into UE4 as a data table.
+4. Create an actor blueprint and in its construction script procedurally create a series of meshes using the climate data as instructions——this process involves nested forEachLoops as well as a relatively complex negotiation of various UE4 blueprint nodes, from the handling of math and vector, location, and scale, to the iterating of specific rows and redirecting their outputs into the mesh generating nodes.
+5. Create a climbing locomotion system that works across the BP_MotionControllerPawn and BP_MotionController blueprints, using casting as well as blueprint interfaces to communicate between each other as well as with the climable objects (BP_Climable). This system chiefly relies on the getting and setting of "climable" variables, as well as the storing of playing locotion and grip in order to calculate world position and move the pawn based on where the motion controllers pull it to (climbing, essentially).
+6. Modify collision channels as well as tweak the MotionControllerPawn blueprint to allow to navigation on the procedural mesh data visualization (it is rare in VR to navigate between different planes of varying height——which is of course necessitate in the navigation between areas in the bar chart)
+7. The cosmetic stuff: create labels for each year and the lowess mean temperature that corresponds to it for each "bar" in the visualization, as well as box collisions atop each bar so that when the user is atop that bar, the label illuminates somewhat.
+8. Create a 2d real time screen capture——effectivelly a mirror——in which the user can gauge their path over and across the data. 
+
