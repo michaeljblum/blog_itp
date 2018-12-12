@@ -1,7 +1,7 @@
 +++
 title = "Data Art Final"
 date = 2018-12-12T14:51:01-05:00
-tags = [""]
+tags = ["Data Art"]
 categories = [""]
 draft = false
 +++
@@ -18,3 +18,4 @@ I wanted build an experience that would allow the user to get some sense of the 
 So I built a navigable, responsive data visualization in Unreal Engine 4, featuring meshes procedurally generated from climate change data and a motion controller pawn with a bespoke climbing locomotion system, effectively allowing——and inviting——the user to climb the data.
 
 I wanted the user to develop a sense for the steep incline of the climate warming data by being tasked with exerting the energy to physically, manually scale it, thereby developing a more intimate, bodily understanding of the severity and rapidness of the change over time. 
+
