@@ -18,11 +18,11 @@ The project linked above, hosted online with Github Pages, has some shortcomings
 
 Compare, for example,
 
-*still feel the truth of the people who had not been able to find in the most amorous spectrally attractions of the distinction of the beautiful land. And so the day was still at the day, for whose wealth of politeness is silent, one in a spark outline can alter it, it is betrayal. And then the scale of contempt for me the stage of fashion and must confine ourselves time in the street for the surface of the faces, the intellectual creatures who seem to them the acquaintance of the little body and the services of other people's witticisms and signs which I had formerly announced the exaltery of*
+*still feel the truth of the people who had not been able to find in the most amorous spectrally attractions of the distinction of the beautiful land. And so the day was still at the day, for whose wealth of politeness is silent, one in a spark outline can alter it, it is betrayal. And then the scale of contempt for me the stage of fashion and must confine ourselves time in the street for the surface of the faces, the intellectual creatures who seem to them the acquaintance of the little body and the services of other people's witticisms and signs which I had formerly announced the exaltery of* **offline, unhosted result**
 
 with 
 
-*feed estitute to me we see tears it were tendencies to tea on we are and she such as ten year on to tear tease to address to her as to tease to see her to bed and were remedient to hear it it went on take people were shewn to me to tear easies an admontus seem taste, a qeasuary tendencies at waiting and teasing her feet a certain part on the point on ten years at Balbec at Comparishible and to teem a decistent antipathate or to tear tea. I can see he went on feint on a certain desire take out on ten time to tea tea tendences at heat. I remendered he went to recent as many desire to meet to m*
+*feed estitute to me we see tears it were tendencies to tea on we are and she such as ten year on to tear tease to address to her as to tease to see her to bed and were remedient to hear it it went on take people were shewn to me to tear easies an admontus seem taste, a qeasuary tendencies at waiting and teasing her feet a certain part on the point on ten years at Balbec at Comparishible and to teem a decistent antipathate or to tear tea. I can see he went on feint on a certain desire take out on ten time to tea tea tendences at heat. I remendered he went to recent as many desire to meet to m* **online, hosted result**
 
 One thing that perplexes me is the Github Pages hosted version's obsession with words like "tea" or "tears" or "tendences." 
 
