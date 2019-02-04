@@ -8,7 +8,7 @@ draft = false
 
 <h5>“...it is not the intelligence that is a filing cabinet; it is the filing cabinet that is an intelligence.” Gaston Bachelard</h5>
 
-The discussions had during our first session of Rest of You brought to mind a piece by Freud that I’ve always found interesting as it relates—prophetically, if also incidentally—to computation. And by computation I mean some of the technological advances that Freud, a clinical psycho-analyst writing in 1925, could not reasonably be said to have anticipated (advances such as exponential increase in storage and processing power, graphical user interfaces, and the omnipresence of the personal computer). 
+The discussions had during our first session of Rest of You brought to mind a piece by Freud that I’ve always found interesting as it relates—prophetically, if also incidentally—to computation. And by computation I mean exponential increase in storage and processing power, graphical user interfaces, the omnipresence of the personal computer, etc.
 
 In this short piece, titled “A Note on the Mystic Writing Pad,” (1925) Freud reflects on apparatuses we use for recording information as a means of extending our memory, from the standard pad of paper to a chalkboard. He ultimately finds both inadequate: “Thus an unlimited receptive capacity and a retention of permanent traces seem to be mutually exclusive properties in the apparatus which we use as substitutes for our memory: either the receptive surface must be renewed [*i.e. a new sheet of paper must be produced*] or the note must be destroyed [*we must erase and/or write over the previous note with another*].”
 
