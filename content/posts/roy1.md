@@ -28,7 +28,7 @@ One thing I’d like to explore in this class is the dynamic whereby the machine
 
 A Bachelard quote that often occurs to me: “...it is not the intelligence that is a filing cabinet; it is the filing cabinet that is an intelligence.”
 
-The computer and computation is not merely an extension of human faculties. It's weirder, less intuitive, and both more and less sophisticated than that. It is itself a kind of mystic writing pad (however secular its parts). We don’t merely outsource our memory to its storage (family photos, to-do lists, correspondences, code, text). It in turn comes to order our memory and the processes by which we interface with our memories, mediating the already opaque ways in which consciousness and unconsciousness interface with one another.
+The computer and computation is not merely an extension of human faculties. The truth is probably a little weirder and less intuitive than that. The computer is more *mystical* (however secular its parts) and less straightforward than a mere prosthesis. We don’t merely outsource our memory to its storage (family photos, to-do lists, correspondences, code, text). It in turn comes to order our memory and the processes by which we interface with our memories, mediating the already opaque ways in which consciousness and unconsciousness interface with one another.
 
 This dynamic of mutual constitution between technology and us is the subject of much research in HCI, IxD, and ethnomethodology.
 
