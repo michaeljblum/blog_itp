@@ -6,7 +6,7 @@ categories = [""]
 draft = false
 +++
 
-<h3>The Keota news., February 11, 1921. Colorado.</h3>
+<h3>The Keota News., February 11, 1921. Colorado.</h3>
 
 **ROPE SUPERIOR TO LEATHER**
 
@@ -25,7 +25,7 @@ The claim of Joseph Jones to hospital attaches that he had some bean was borne o
 
 <hr>
 
-<h3>Los Angeles Examiner, 1937.</h3>
+<h3>Los Angeles Examiner., May 7, 1937. California.</h3>
 
 [*Torn clipping, from an advertisement for a sailer*]
 
