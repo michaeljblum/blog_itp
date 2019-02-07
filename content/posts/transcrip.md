@@ -1,5 +1,5 @@
 +++
-title = "Transcrip"
+title = "Transcribed Text"
 date = 2019-02-07T12:57:44-05:00
 tags = ["rwet"]
 categories = [""]
