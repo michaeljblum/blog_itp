@@ -18,7 +18,7 @@ For 20 years there has been an increasing use in this country of manila rope for
 
 **MULE KICKS MAN AND DIES**
 
-[*Local news*]
+[*Local news. Note: This one has quite an idiosyncratic first sentence. Copied down precisely as printed in the paper.*]
 
 Hunstville, Alaska. 
 The claim of Joseph Jones to hospital attaches that he had some bean was borne out when his story that he had been kicked by a mule on the head and that as a result the animal was lying helpless with a broken leg, was investigated and found to be true. Jones said his way was blocked by a stray mule and he made a threatening gesture to frighten it away. It refused to stampede, however, meeting the assault with a well-directed kick to the brow. The mule’s leg was broken in two places. It was pronounced a helpless cripple and shot. Jones will recover.
