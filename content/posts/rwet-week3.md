@@ -14,6 +14,6 @@ What I'd like to do going forward is separate words into parts of speech and dis
 
 The following quote from Charles Hartman (from his *Virtual Muse*) is highly germane to this kind of work, or at least at this stage in my experience with it, and was lodged in my mind as I was working: "The reader’s mind works most actively on sparse materials. We draw the clearest constellations from the fewest stars. So, the nonsense factor is low for a tiny collocation of words that can be imbued with imagistic significance."
 
-I think it is a very fragile business maintaining the balance between that auspicious, even fortuitous zone of sense (or sensible non-sense), and a random, garbled motley of unintentionally assembled words.
+It is a very fragile business maintaining the balance between that auspicious, even fortuitous zone of sense (or sensible non-sense), and a random, garbled motley of unintentionally assembled words.
 
 The reader is often willing to do the work to fill in the gaps of randomness, ascribing or projecting sense, intention, or is otherwise leaving themselves open to a frisson at the chance congregation of several words. But the program must give the reader something to work with. There is too little intention and definition to my current design.
