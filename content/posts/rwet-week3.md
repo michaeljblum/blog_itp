@@ -1,5 +1,5 @@
 +++
-title = "Rwet Week3"
+title = "First Attempt at a Poetry Generator"
 date = 2019-02-14T13:29:06-05:00
 tags = ["rwet"]
 categories = [""]
