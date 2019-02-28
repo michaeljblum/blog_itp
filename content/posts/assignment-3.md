@@ -10,11 +10,11 @@ draft = false
 
 The prompt for this week's assignment was to create a program/notebook that reads in text from two or more sources, stores this text in data structures with whatever creative manipulations we choose, and programatically arranges these structures into something resembling a poem. 
 
-The two sources I chose were various sections on the Wikipedia entry for the "Emu" and "Composition as Explanation," an essay of sorts by Gertrud Stein.
+The two sources I chose were various sections from the Wikipedia entry for the "Emu" and "Composition as Explanation," an essay of sorts by Gertrud Stein.
 
 I read in the Wikipedia sections using the wikipedia module. For the Stein, I used BeautifulSoup's html parser in tandem with the requests library's fetching functionality.
 
-The wikipedia textual matter underwent a decent amount of transformation. I used regex to split three sections (History, Behavior and ecology, and Diet) along various delimiters. Each of the sections then underwent various, unique transformations, from removal of all sentences including digits to removing all words shorter than 10 characters, removal of stopwords, and removal of duplicates. In the process of the above, I used list comprehensions to fit everything into lists. 
+The wikipedia textual matter underwent a decent amount of transformation. I used regex to split three sections (History, Behavior and ecology, and Diet) along various delimiters. Each of the sections then underwent several unique transformations, from removal of all sentences including digits to removing all words shorter than 10 characters, removal of stopwords, and removal of duplicates. In the process of the above, I used list comprehensions to fit everything into lists. 
 
 I ran the Stein essay through a generator function which helped me create a list of randomly sized sentence fragments (between 4 and 14 words). No surprisingly, the output of this generator function was pretty excellent on its own. 
 
