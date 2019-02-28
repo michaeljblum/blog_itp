@@ -22,7 +22,7 @@ After cleaning some things up, I printed out random selections from each of the 
 
 All in all, I'm a lot more pleased with the output of this generator than I was with that of the last one.
 
-Here's an example (formatting is a little better in the output that can be found at the bottom of the Jupyter Notebook linked above):
+Here's an example:
 
 ***
 
