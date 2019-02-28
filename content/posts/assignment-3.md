@@ -20,7 +20,7 @@ I ran the Stein essay through a generator function which helped me create a list
 
 After cleaning some things up, I printed out random selections from each of the above mentioned lists, looping these print statements six times.
 
-All in all, I'm a lot more pleased with the output of this generator than I was with that of the last one.
+Plenty of room for improvement, but all in all, I'm a lot more pleased with this output than I was with that of my last attempt.
 
 Here's an example:
 
