@@ -25,7 +25,7 @@ All in all, I'm a lot more pleased with the output of this generator than I was 
 Here's an example:
 
 ***
-
+<pre>
 it has been these thirty
  the emu's cold nasal turbinates condense moisture back out of the air and absorb it for reuse
 
@@ -56,5 +56,5 @@ is not the same as the time when of the
 
 acacia
 "fast-footed
-
+</pre>
 ***
