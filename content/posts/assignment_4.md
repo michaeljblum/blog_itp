@@ -12,7 +12,7 @@ I'm motivated by the following lines from Joan Retallack on what she calls the "
 
 "Duchamp's working assumption," she writes, "was that any object can be seen as art. Attention is the necesary and sufficient condition. The only thing that isn't art is inattention."
 
-I want the users attention to be shifted from pairing to pairing, feeling nothing (pure nonsense) or something (by chance a delicious pairing of language; impure nonsense) or something for sure (reflects on the either or both of the two words owing to their chance encounter and concatenation).
+I want the users attention to be shifted from pairing to pairing, feeling nothing (pure nonsense) or something (by chance a delicious pairing of language; impure nonsense) or something for sure (reflects more intently on the either or both of the two words owing to their chance encounter and concatenation).
 
 My current design, which you can find in the link below, is more a product of my current burn-out and near total exhaustion resulting from everything involved in thesis midterms than it is a genuine reflection of what I actually want to and think I can achieve. 
 
