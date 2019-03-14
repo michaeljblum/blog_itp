@@ -6,7 +6,7 @@ categories = [""]
 draft = false
 +++
 
-This form pairs words and prints them out, joined at the hip, in a sort of diagonal crescendo, such that the joinings look less like an arbitrary list and more like something with a telos or a tendency, even if it's merely that of a moving train, exactly to where one is unaware of. 
+This form pairs words and prints them out, joined at the hip, in a sort of diagonal crescendo, such that the joinings look less like an arbitrary list and more like something with a telos or a tendency, even if it's merely that of a moving train, exactly to where one can't say. 
 
 I'm motivated by the following lines from Joan Retallack on what she calls the "geometries of attention" in the work of John Cage. 
 
