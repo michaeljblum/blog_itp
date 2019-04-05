@@ -16,6 +16,8 @@ It stands to reason that this is so, as one thing all three seem to agree on is 
 
 Per D & G, they have a canny ability to be *hooked up* to other entities — if we're acknowledging mycelia's potential for parasitism, we can refer to these entities as the host. In this frame of understanding, mycelium is something that, if not always, then is at least very frequently, existing for or because of something else. A host or a medium of required.
 
+[Few paragraphs TK — notes on horizontal structure and ahierarchy contrasted with more hierarchical structures, specifically with a view to looking at intelligence and memory — contrasting D & G with Minsky's Society of Mind and Stamet's claims on the intelligence of mycelia]
+
 <hr>
 
 As for my project outline — Michael (Fuller; I'm not speaking in the third person) and I haven't yet convened, as this week was a particularly busy one for us both, what with everything surrounding thesis. 
