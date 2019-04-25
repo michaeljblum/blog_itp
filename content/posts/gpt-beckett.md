@@ -18,7 +18,7 @@ The remarkable thing about this training and this model is its efficiency. The s
 
 The only real downside to training with input text this small was that overfitting becomes a lot earier. While I could have tweaks some parameters, such as learning rate, to attenuate overfitting or slow it down, I didn't feel this was totally necessary, as a rough glance over my output showed that, while there was definitely some *actual* Beckett in my fake Beckett output, there was a whole lot of novel content as well. So my next step was to put together a Python script to do a few things, chief among them checking for lines of *actual* Beckett in the fake Beckett file, and removing them. 
 
-The output can be seen in this [notebook](https://nbviewer.jupyter.org/github/michaeljblum/GPT-Beckett/blob/master/fake_beckett.ipynb). 
+This script and the cleaned up output it produces can be seen in this [notebook](https://nbviewer.jupyter.org/github/michaeljblum/GPT-Beckett/blob/master/fake_beckett.ipynb). 
 
 One sort of has to handpick and apply some degree of prejudice when reading over this output, discarding those lines that err a litle too far past the threshold of non-sensicalness that we somewhat arbitrarily set for ourselves when reading poetry that is so abstract in the first place. 
 
@@ -27,3 +27,5 @@ Still, there are definite gems to be found here, and there are choice segments â
 In some of my other output, even, my bare output, before I ran the script that surgically removed the real Beckett from the fake, there are some moments that really impressed me, where I found it very truly difficult to distinguish where the real ended and the fake began. Here is one such:
 
 >grave suave singing silk<br>stoop to the black firmament of areca<br>rain circus foot traffic<br>for all the world that dusts the sand<br>and the crystal clear seas<br>and the eyes by its shining mechanisms<br>communicating by heart<br>that which is free<br>and that is not free
+
+"Grave suave singing silk," and "stoop to the black firmament of areca" are both Beckett; the rest is not. What really gets me is GPT-2's ability to ouput a line, consistent with Beckett's structure, in which is likens eyes to "shining mechanisms." There are similarly (dare I say it) poetic phrases elsewhere. What I'd like to do next is attempt fine-tuning with a larger corpus, or maybe employ another algorithm to better refine the organization or collocation of the output of this fine-tuning process. 
