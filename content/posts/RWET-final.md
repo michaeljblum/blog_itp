@@ -24,7 +24,7 @@ The script simply wraps and centers it.
 
 I haven't read it all, or even close really, and from a quick scroll-through, I can see that there are a couple moments of breakdown and glitching (model tumbles on a word for a bit). But overall, I quite like what I've read. 
 
-Here's what I read at the RWET Final Presentation event:
+Here's what I read at the RWET Final Presentation event (apologies for the weird coloring below; no clue why it's showing up like that):
 
 								All is going well the sky is                               
                                shifting in an instant  But for me I                                
