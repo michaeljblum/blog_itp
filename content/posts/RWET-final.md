@@ -24,4 +24,67 @@ The script simply wraps and centers it.
 
 I haven't read it all, or even close really, and from a quick scroll-through, I can see that there are a couple moments of breakdown and glitching (model tumbles on a word for a bit). But overall, I quite like what I've read. 
 
+Here's what I read at the RWET Final Presentation event:
+
+>								All is going well the sky is                               
+>                               shifting in an instant  But for me I                                
+>                               mustn’t have been the first time I was                               
+>                               caught up too hastily in these strange                               
+>                               undertakings. And that black sky dims                                
+>                              tired of me  I got up early There I was,                              
+>                               in the first hour of my Olympic quest,                               
+>                              and at the first sign of being, and then                              
+>                              as soon as the lights went out, and then                              
+>                               by chance too, by accident, so that it                               
+>                               was not clear what I was doing there,                                
+>                                that is, where I was sitting when my                                
+>                               plane rose and what I was doing there.                               
+>                               And that black sky dims tired of me  I                               
+>                               did not know what I was sitting there,                               
+>                              standing still. But I may well have been                              
+>                              tired of me  And I will never forget the                              
+>                              feeling of seeing the woman But I do not                              
+>                               think I took part in the programme, or                               
+>                              at least in my mind how to describe it.                               
+>                               Was she not the one from whom the sun                                
+>                                set? The moon is watching the sky is                                
+>                               dark  But for me the time trial I took                               
+>                              part in The woman in the black fidgeting                              
+>                                 in the dark, on the left, her hair                                 
+>                               unkempt and her eyes closed, I think.                                
+>                              I’m sorry. sighing up through the heavy                               
+>                                 air the moon is watching  We were                                  
+>                                looking forward to the day when the                                 
+>                               tribunal would see what we’re doing I                                
+>                               felt obliged to give her evidence, and                               
+>                               to give the reasons for why I’m unable                               
+>                              today to make use of her limited memory.                              
+>                              tired of me won the medal double  That’s                              
+>                              why I got up early and got up early Was                               
+>                               it possible then, in my mind, that the                               
+>                              woman in the blue scarf in the corner of                              
+>                                my memory, the one from whom the sun                                
+>                              came, was sitting still, still, as if by                              
+>                                 magic, in my memory, with only the                                 
+>                                scarred thing from which the sun had                                
+>                               come, standing still, still, as if he                                
+>                              were speaking. was not there when I was                               
+>                              in the green and gold. But for all that                               
+>                               I took part in the trial I did not try                               
+>                              to tell her a thing And it was the green                              
+>                                I had forgotten, my memory, that was                                
+>                               forgotten, my understanding blank. Was                               
+>                               not he also watching the Olympic game?                               
+>                              The Green sighing up the steep hill  We                               
+>                               did not try to tell her a thing No. I                                
+>                              say too. sighing up the steep hill tired                              
+>                               of me  We had to get through the night                               
+>                              in one go To put it politely. the Green                               
+>                              won the gold  The day and night champion                              
+>                                It was a grey, unkempt scarf, in the                                
+>                                  shape of a man, and the man was                                   
+>                               barefoot. Was not he also watching the                               
+>                               Olympic game?
+
+
 
